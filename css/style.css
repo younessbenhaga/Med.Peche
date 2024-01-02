@@ -64,6 +64,14 @@ body {
 img{
     border-radius: 20px;
 }
+.home-img-cur{
+    height: 400px;
+}
+@media (max-width:500px) {
+    .home-img-cur{
+        height: 200px;
+    }
+}
 
 
 /* Attraction */
@@ -83,9 +91,7 @@ img{
     margin-bottom: 50px;
 }
 @media (min-width:1182px) {
-    #Attraction {
-        height: 100vh;
-    }
+   
     #Attraction .row{
         margin-top: 80px;
     }
@@ -112,7 +118,7 @@ img{
 }
 @media (min-width:1182px) {
     #services {
-        height: 100vh;
+        height: 85vh;
     }
 }
 
