@@ -54,9 +54,7 @@ body {
     
 }
 @media (min-width:1182px) {
-    .home-1 {
-        height: 100vh;
-    }
+    
     .home-text{
         margin-bottom: 0;
         padding-bottom: 0;
