@@ -55,7 +55,7 @@ body {
 }
 @media (min-width:1182px) {
     .home-1 {
-        height: 80vh;
+        height: 90vh;
     }
     .home-text{
         margin-bottom: 0;
@@ -114,7 +114,7 @@ img{
 }
 @media (min-width:1182px) {
     #services {
-        height: 85vh;
+        height: 95vh;
     }
 }
 
